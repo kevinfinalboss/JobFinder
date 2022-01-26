@@ -1,7 +1,7 @@
 {
   "name": "job_finder",
   "version": "1.0.0",
-  "description": "portal para programadores encontrarem vagas",
+  "description": "portal para programadores encontrarem vagas de emprego",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js"

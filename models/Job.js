@@ -1,4 +1,4 @@
-const { Router } = require('express')
+const { router } = require('express')
 const Sequelize = require('sequelize')
 const sequelize = require('../db/connectiondb')
 const db = require('../db/connectiondb')

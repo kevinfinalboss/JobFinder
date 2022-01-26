@@ -4,7 +4,8 @@
   "description": "portal para programadores encontrarem vagas de emprego",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "commit": "npx git-cz"
   },
   "repository": {
     "type": "git",

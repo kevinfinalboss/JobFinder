@@ -1,6 +1,8 @@
+const { Router } = require('express')
 const Sequelize = require('sequelize')
 const sequelize = require('../db/connectiondb')
 const db = require('../db/connectiondb')
+
 
 const Job = db.define('job', {
     title: {

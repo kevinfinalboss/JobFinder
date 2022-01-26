@@ -4,7 +4,7 @@
   "description": "portal para programadores encontrarem vagas",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",

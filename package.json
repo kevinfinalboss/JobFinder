@@ -1,0 +1,36 @@
+{
+  "name": "job_finder",
+  "version": "1.0.0",
+  "description": "portal para programadores encontrarem vagas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinfinalboss/JobFinder.git"
+  },
+  "keywords": [
+    "dev",
+    "jobs",
+    "dev",
+    "oportunity",
+    "jobs"
+  ],
+  "author": "kevin final boss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinfinalboss/JobFinder/issues"
+  },
+  "homepage": "https://github.com/kevinfinalboss/JobFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "sequelize": "^6.14.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

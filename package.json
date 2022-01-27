@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
-    "commit": "npx git-cz"
+    "commit": "npx git-cz",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",

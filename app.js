@@ -16,10 +16,12 @@ app.listen(PORT, function () {
 app.use(bodyParser.urlencoded({extended: false}))
 
 //handlebars
-
 app.set('views', path.join(__dirname, 'views'));
 app.engine('handlebars', exphbs.engine({defaultLayout: 'main'}))
 app.set('view engine', 'handlebars')
+
+// static folder 
+app.use(express.static(path.join(__dirname, 'public')))
 
 //db connection
 
@@ -35,7 +37,7 @@ db
 
 // routes
 app.get('/', (req, res) => {
-    res.send("Aplicação funcionando")
+    res.render("index")
 })
 
 // jobs routes

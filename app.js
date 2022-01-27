@@ -61,12 +61,12 @@ app.get('/', (req, res) => {
     .then(jobs => {
       res.render('index', {
         jobs, search
-      });
+      })
   
     })
     .catch(err => console.log(err))
   }
-});
+})
 
 // jobs routes
 app.use('/jobs', require('./routes/jobs'))

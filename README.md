@@ -4,8 +4,6 @@
 
 ## Funcionalidades
 
-**Fizemos como solicitado as funções CRUD.**
-
 #### **Adicionar Novo:**
 
 Essa função ao clicar serve para abrir o modal, ela exibe o formulário de cadastro de serviço para que as informações sejam inseridas. Elas permanecem em tela até posterior edição ou exclusão.

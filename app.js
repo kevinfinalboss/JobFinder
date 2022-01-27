@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const path = require('path')
+const path =  require('path')
 const exphbs = require('express-handlebars')
 const db = require('./db/connectiondb')
 const bodyParser = require('body-parser')

@@ -12,13 +12,13 @@ Essa função é responsável por adicionar novas vagas, mais para baixo está a
 
 #### **Visualização da vaga:**
 
-Após a inserção dos dados, caso a vaga seja nova será representada desse jeito na página home
+Após a inserção dos dados, caso a vaga seja nova será representada desse jeito na página home.
 
 <img src="https://i.pinimg.com/originals/2c/f2/6a/2cf26af0c6ecbc800099f131e14e39d4.jpg" width="500px"></img>
 
 #### **Ver vaga:**
 
-Função que permite a visualização mais detalhada da vaga contendo salário, email e a empresa contratante
+Função que permite a visualização mais detalhada da vaga contendo salário, email e a empresa contratante.
 
 <img src="https://i.pinimg.com/originals/3a/7e/59/3a7e59222964248a88a01b345e647069.jpg" width="500px"></img>
 

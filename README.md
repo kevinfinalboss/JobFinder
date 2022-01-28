@@ -6,21 +6,28 @@
 
 #### **Adicionar Vaga:**
 
-Essa função ao clicar serve para abrir o modal, ela exibe o formulário de cadastro de serviço para que as informações sejam inseridas. Elas permanecem em tela até posterior edição ou exclusão.
+Essa função é responsável por adicionar novas vagas, mais para baixo está a demonstração de como fica representado após a inserção dos dados.
 
 <img src="https://cdn.discordapp.com/attachments/928701821818638336/936410514085511259/unknown.png" width="500px">
 
-#### **Editar:**
+#### **Visualização da vaga:**
 
-Essa função ao clicar exibe o formulário preenchido com os dados do serviço escolhido para o usuário _editar_/alterar as informações salvas anteriormente no "banco de dados" e guardar as alterações ao clicar em _salvar_.
+Após a inserção dos dados, caso a vaga seja nova será representada desse jeito na página home
 
-<img src="editar.png" width="500px"></img>
+<img src="https://i.pinimg.com/originals/2c/f2/6a/2cf26af0c6ecbc800099f131e14e39d4.jpg" width="500px"></img>
 
-#### **Excluir:**
+#### **Ver vaga:**
 
-Função que ao clicar _exclui_ perante confirmação, todas as adicções/alterações no serviço escolhido.
+Função que permite a visualização mais detalhada da vaga contendo salário, email e a empresa contratante
 
-<img src="excluir.png" width="500px"></img>
+<img src="https://i.pinimg.com/originals/3a/7e/59/3a7e59222964248a88a01b345e647069.jpg" width="500px"></img>
+
+#### **Sistema de busca:**
+
+Esse sistema é para filtrar as vagas pelo o título da vaga, sendo assim facilitando a vida caso haja muitas vagas.
+
+<img src="https://i.pinimg.com/originals/01/53/fe/0153fe90dd61bf3d0eaae44b2d8178dd.jpg" width="500px"></img>
+
 
 ## Tecnologias Usadas
 
@@ -42,4 +49,4 @@ Função que ao clicar _exclui_ perante confirmação, todas as adicções/alter
 
 # Desenvolvedores
 
-📌 [Kevin Gomes](https://github.com/AgathaLima)
+📌 [Kevin Gomes](https://github.com/kevinfinalboss)

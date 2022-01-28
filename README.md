@@ -8,7 +8,7 @@
 
 Essa função ao clicar serve para abrir o modal, ela exibe o formulário de cadastro de serviço para que as informações sejam inseridas. Elas permanecem em tela até posterior edição ou exclusão.
 
-<img src="./img/public/abrir-vaga.png" width="500px">
+<img src="abrir-vaga.png" width="500px">
 
 #### **Editar:**
 
@@ -38,7 +38,7 @@ Função que ao clicar _exclui_ perante confirmação, todas as adicções/alter
 
 <img text-align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="REACTJS" width="50" height="40" style="max-width:100%;"></img>
 
-<img text-align="center" src="https://camo.githubusercontent.com/644b7c04356f7e17ee98274b9a7d59af01e06bc988e4c311c8259df425d13c18/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39372f53716c6974652d7371756172652d69636f6e2e737667" alt="REACTJS" width="50" height="40" style="max-width:100%;"></img> sqlite
+<img text-align="center" src="https://camo.githubusercontent.com/644b7c04356f7e17ee98274b9a7d59af01e06bc988e4c311c8259df425d13c18/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39372f53716c6974652d7371756172652d69636f6e2e737667" alt="REACTJS" width="50" height="40" style="max-width:100%;"></img>
 
 # Desenvolvedores
 

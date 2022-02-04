@@ -8,7 +8,7 @@ const Job = require('./models/Job');
 const Sequelize = require('sequelize');
 const Op = Sequelize.Op;
 
-const PORT = 3000;
+const PORT = 8000;
 
 app.listen(PORT, function() {
   console.log(`Aplicação rodando na porta${PORT}`)
